@@ -1,0 +1,4 @@
+# PyBer_Analysis-Date summary
+Based on the dataframe for the first part of the challenge, it looks like the people in the urban location are riding more to get to the destination, however, the price of the ride is lower. I would say it makes sense because at the same time there is more riders, there is plenty of drivers so the demand is not as high for the drivers because there is so many. On the other hand, Rural areas were less in the rides which makes sense because of lack of drivers and much more expensive to ride as well. Demand is very low.
+Total sum of fares in the urban cities is about 2 and 9 times  more as compared to the suburban and urban cities.
+The number of drivers in the urban cities are 5 and 30 times more as compared to the suburban and the rural cities.
